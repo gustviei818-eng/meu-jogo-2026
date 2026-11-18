@@ -7,11 +7,7 @@ const phases = [
         time: null
     },
 
-    {
-        name: "Protetor da Natureza",
-        count: 10,
-        time: 45
-    },
+    
 
     {
         name: "Guardião do Planeta",
